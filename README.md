@@ -1,5 +1,8 @@
 # Vsdquadron Mini
+
 ## Task-1
++ Install Oracle Virtual Machine
++ install Ubuntu 20.04 on VM
 + ### Install Riscv GNU Toolchain
 
 ```
@@ -26,6 +29,20 @@ cd build
 make -f ../Makefile -j
 ```
 ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/c4bb02b9-5454-4a3d-8dc1-da1420c8f27e)
+
++ ### Install Iverilog
+  ```
+  sudo apt-get install iverilog
+  ```
+  ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/1e635984-51f3-4533-b73b-646754abd8bd)
+
++ ### Install gtkwave
+```
+sudo apt-get install gtkwave
+```
+![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/9122d695-2e38-40f3-8949-601ebab8d46b)
+
+
 
 
 
