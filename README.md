@@ -1,4 +1,4 @@
-# Riscv GNU Toolchain
++ # Riscv GNU Toolchain
 
 ```
   git clone https://github.com/riscv/riscv-gnu-toolchain
@@ -7,10 +7,6 @@
   ./configure --prefix=/opt/riscv
   make
   ```
-* hii
-* >
-  >abc
-  >bcg
 
 
 
