@@ -42,6 +42,10 @@ sudo apt-get install gtkwave
 ```
 ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/9122d695-2e38-40f3-8949-601ebab8d46b)
 
+## Task-2 
++ Identify instruction type and exact 32-bit instruction code in the instruction type format.
+
+
 
 
 
