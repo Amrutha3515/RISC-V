@@ -11,17 +11,16 @@
   ```
 
 + ### Install Yosys
-  ```
-  git clone https://github.com/YosysHQ/yosys.git
-cd yosys 
-sudo apt install make 
+```
+git clone git@github.com:YosysHQ/yosys.git
 sudo apt-get install build-essential clang bison flex \
-    libreadline-dev gawk tcl-dev libffi-dev git \
-    graphviz xdot pkg-config python3 libboost-system-dev \
-    libboost-python-dev libboost-filesystem-dev zlib1g-dev
-make config-gcc
-make 
-sudo make install
+	libreadline-dev gawk tcl-dev libffi-dev git \
+	graphviz xdot pkg-config python3 libboost-system-dev \
+	libboost-python-dev libboost-filesystem-dev zlib1g-dev
+cd yosys
+mkdir build
+cd build
+make -f ../Makefile -j
 ```
 
 
