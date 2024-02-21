@@ -9,6 +9,9 @@
   ./configure --prefix=/opt/riscv
   make
   ```
+![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/9a6bbd49-9c43-4ec2-8590-fdd2ba1445b6)
+
+
 
 + ### Install Yosys
 ```
@@ -22,6 +25,7 @@ mkdir build
 cd build
 make -f ../Makefile -j
 ```
+![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/c4bb02b9-5454-4a3d-8dc1-da1420c8f27e)
 
 
 
