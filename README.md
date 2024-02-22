@@ -3,7 +3,7 @@
 ## Task-1
 + Install Oracle Virtual Machine
 + install Ubuntu 20.04 on VM
-+ ### Install Riscv GNU Toolchain
+> ### Install Riscv GNU Toolchain
 
 ```
   git clone https://github.com/riscv/riscv-gnu-toolchain
