@@ -44,6 +44,12 @@ sudo apt-get install gtkwave
 
 ## Task-2 
 + Identify instruction type and exact 32-bit instruction code in the instruction type format.
+  
+  RV32I can be divided into six basic instruction formats. R-type instructions for register-register operations, an I-type instructions for immediate and load operations, and S-type instructions for store operations. B-type instructions for conditional branch operations. U-type instructions for long immediate and J-type instructions for unconditional jumps.
+
+  ![WhatsApp Image 2024-02-22 at 17 29 06_b1e00065](https://github.com/Amrutha3515/RISC-V/assets/150571663/e06834ef-90e6-4b81-8ce4-9c720aff2562)
+
+  
 
 
 
