@@ -1,22 +1,26 @@
 # Vsdquadron Mini
+<details>
+<summary>Task-1</summary>
 
-## Task-1
 + Install Oracle Virtual Machine
 + install Ubuntu 20.04 on VM
-+ ### Install Riscv GNU Toolchain
 
-```
-  git clone https://github.com/riscv/riscv-gnu-toolchain
-  sudo apt-get install autoconf automake autotools-dev curl python3 python3-pip libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf libtool   
-  patchutils bc zlib1g-dev libexpat-dev ninja-build git cmake libglib2.0-dev
-  ./configure --prefix=/opt/riscv
-  make
+<details>
+    <summary> Install Riscv GNU Toolchain</summary>
+
+  ```bash 
+    git clone https://github.com/riscv/riscv-gnu-toolchain
+    sudo apt-get install autoconf automake autotools-dev curl python3 python3-pip libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf libtool   
+    patchutils bc zlib1g-dev libexpat-dev ninja-build git cmake libglib2.0-dev
+    ./configure --prefix=/opt/riscv
+    make
   ```
 ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/9a6bbd49-9c43-4ec2-8590-fdd2ba1445b6)
+</details>
 
-
-
-+ ### Install Yosys
+<details>
+ <summary>Install Yosys</summary>
+	
 ```
 git clone git@github.com:YosysHQ/yosys.git
 sudo apt-get install build-essential clang bison flex \
@@ -29,20 +33,25 @@ cd build
 make -f ../Makefile -j
 ```
 ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/c4bb02b9-5454-4a3d-8dc1-da1420c8f27e)
-
-+ ### Install Iverilog
+</details>
+<details>
+<summary>Install Iverilog</summary>
   ```
   sudo apt-get install iverilog
   ```
   ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/1e635984-51f3-4533-b73b-646754abd8bd)
-
-+ ### Install gtkwave
+</details>
+<details>
+<summary> Install gtkwave</summary>
 ```
 sudo apt-get install gtkwave
 ```
 ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/9122d695-2e38-40f3-8949-601ebab8d46b)
-
-## Task-2 
+</details>
+</details>
+<details>
+<summary>Task-2</summary> 
+	
 + Identify instruction type and exact 32-bit instruction code in the instruction type format.
   
   RV32I can be divided into six basic instruction formats. R-type instructions for register-register operations, an I-type instructions for immediate and load operations, and S-type instructions for store operations. B-type instructions for conditional branch operations. U-type instructions for long immediate and J-type instructions for unconditional jumps.
@@ -90,7 +99,7 @@ sw r3, r1, 2
 
 0000000	0001	00011	010	01110	1100011
 ```
-
+</details>
 
 
 
