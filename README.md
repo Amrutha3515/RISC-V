@@ -103,7 +103,8 @@ sw r3, r1, 2
 
 <details>
 	<summary>Task-3</summary>
- 
+	
+ + compiled the c code of sumof 1 to 5 numbers in gcc 
 
  ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/f60d4a74-826c-41b4-8ed7-0574124c64ba)
 
