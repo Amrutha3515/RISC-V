@@ -101,7 +101,13 @@ sw r3, r1, 2
 ```
 </details>
 
+<details>
+	<summary>Task-3</summary>
+ 
 
+ ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/f60d4a74-826c-41b4-8ed7-0574124c64ba)
+
+</details>
 
 
 
