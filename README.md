@@ -130,6 +130,56 @@ GCC (F1) SHOULD HAVE AN EQUAL OUTPUT TO THE RISCV GCC (F2) AS REQUIRED.
 
   </details>
 
+<details>
+	<summary>Task-5</summary>
+
+ ### About iverilog and gtkwave
+ 
++ Icarus Verilog is an implementation of the Verilog hardware description language.
++ GTKWave is a fully featured GTK+ v1. 2 based wave viewer for Unix and Win32 which reads Ver Structural Verilog Compiler generated AET files as well as standard Verilog VCD/EVCD files and allows their viewing.
+### Installing iverilog and gtkwave
+
++ For Ubuntu
++ Open your terminal and type the following to install iverilog and GTKWave
+```
+$   sudo apt get update
+$   sudo apt get install iverilog gtkwave
+```
++ To simulate and run the Verilog code, enter the following commands in your terminal.
+``` 
+$ iverilog -o hello hello.v hello_tb.v
+$ ./hello
+```
++ To see the output waveform in gtkwave, enter the following commands in your terminal.
+  
+```$ gtkwave hello.vcd ```
+
+![WhatsApp Image 2024-03-07 at 18 44 35_6c723d87](https://github.com/Amrutha3515/RISC-V/assets/150571663/d3dc93ee-376a-44f6-80ad-40b810c5a0e3)
+
++ The output waveform showing the instructions performed in a 5-stage pipelined architecture.
+<details>
+<summary>add r6,r2,r1</summary>
+	
+![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/c255bc14-82f5-43bb-8aad-a795ebc7fcb4)
+
+</details>
+
+<details>
+<summary>sub r7,r1,r2</summary>
+
+![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/ad9aedf1-a120-4308-a104-602178fb1948)
+</details>
+<details>
+<summary>and r8,r1,r3</summary>
+	
+![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/2e3b4227-eebe-4a4b-8e70-bdbe86228d7b)
+</details>
+
+
+
+
+</details>
+
 
 
 
