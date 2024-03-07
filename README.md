@@ -116,6 +116,21 @@ sw r3, r1, 2
 
 
 </details>
+<details>
+<summary>Task-4</summary>
+	
++ The conventional GCC X86 compiler and the riscv compiler should be simulated for the C code (SPIKE Simulation).
+GCC (F1) SHOULD HAVE AN EQUAL OUTPUT TO THE RISCV GCC (F2) AS REQUIRED.
+
+![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/71f14ffd-4b38-42d4-8e9f-e4599248a758)
+
++ To compile the code: ``` riscv64-unknown-elf-gcc -o sum1ton sum1ton.c ``` To Get the output use ``` ./a.out ``` : Here the output finds to be -Sum of numbers from 1 to 500 is 125250
+
+  ![WhatsApp Image 2024-03-07 at 18 50 38_92a4c988](https://github.com/Amrutha3515/RISC-V/assets/150571663/9e5f88e7-4eec-44cf-8541-0a025b7d4dfa)
+
+  </details>
+
+
 
 
 
