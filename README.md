@@ -150,11 +150,14 @@ $   sudo apt get install iverilog gtkwave
 $ iverilog -o hello hello.v hello_tb.v
 $ ./hello
 ```
+![WhatsApp Image 2024-03-07 at 19 18 20_f563c07d](https://github.com/Amrutha3515/RISC-V/assets/150571663/c7920de6-03d7-4e75-a968-d164c821306d)
+
 + To see the output waveform in gtkwave, enter the following commands in your terminal.
   
 ```$ gtkwave hello.vcd ```
 
-![WhatsApp Image 2024-03-07 at 18 44 35_6c723d87](https://github.com/Amrutha3515/RISC-V/assets/150571663/d3dc93ee-376a-44f6-80ad-40b810c5a0e3)
+
+
 
 ### The output waveform showing the instructions performed in a 5-stage pipelined architecture.
 <details>
