@@ -156,7 +156,7 @@ $ ./hello
 
 ![WhatsApp Image 2024-03-07 at 18 44 35_6c723d87](https://github.com/Amrutha3515/RISC-V/assets/150571663/d3dc93ee-376a-44f6-80ad-40b810c5a0e3)
 
-+ The output waveform showing the instructions performed in a 5-stage pipelined architecture.
+### The output waveform showing the instructions performed in a 5-stage pipelined architecture.
 <details>
 <summary>add r6,r2,r1</summary>
 	
@@ -175,8 +175,55 @@ $ ./hello
 ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/2e3b4227-eebe-4a4b-8e70-bdbe86228d7b)
 </details>
 
+<details>
+	<summary>or r9,r2,r5</summary>
 
+ ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/06d11737-7943-4316-885d-a8791b5f5132)
 
+</details>
+
+<details>
+	<summary>xor r10,r1,r4</summary>
+
+ ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/347f316f-147a-49a9-b4bc-9cf20d731ea1)
+
+</details>
+<details>
+	<summary>slt r11,r2,r4</summary>
+
+ ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/860986a6-7b24-4198-b315-0dbc175a7cff)
+
+</details>
+<details>
+	<summary>addi r12,r4,5</summary>
+
+ ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/4b1c8913-9f31-45fa-b29f-166247af2c92)
+
+</details>
+<details>
+	<summary>sw r3,r1,2</summary>
+
+ ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/1cbf6b9f-27f5-4725-a574-0eb40fb4a84a)
+
+</details>
+<details>
+	<summary>lw r13,r1,2</summary>
+
+ ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/1b62affb-5e68-42e7-9661-e8a93a3d1291)
+
+</details>
+<details>
+	<summary>beq r0,r0,15</summary>
+
+ ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/52ff3810-c41f-4685-98bd-7aa0a2c4a44d)
+
+</details>
+<details>
+	<summary>add r14,r2,r2</summary>
+
+ ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/f3442522-5d37-4c0c-aabd-fc8329a88cef)
+
+</details>
 
 </details>
 
