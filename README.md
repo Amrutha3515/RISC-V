@@ -36,17 +36,20 @@ make -f ../Makefile -j
 </details>
 <details>
 <summary>Install Iverilog</summary>
-  ```
-  sudo apt-get install iverilog
-  ```
-  ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/1e635984-51f3-4533-b73b-646754abd8bd)
+
+```  sudo apt-get install iverilog ```
+  
+	
+![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/2615477c-d6c3-4992-8daf-d5798a595100)
 </details>
 <details>
 <summary> Install gtkwave</summary>
-```
-sudo apt-get install gtkwave
-```
-![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/9122d695-2e38-40f3-8949-601ebab8d46b)
+
+``` sudo apt-get install gtkwave ```
+
+![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/2615477c-d6c3-4992-8daf-d5798a595100)
+	
+
 </details>
 </details>
 <details>
