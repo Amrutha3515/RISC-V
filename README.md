@@ -142,65 +142,73 @@ GCC (F1) SHOULD HAVE AN EQUAL OUTPUT TO THE RISCV GCC (F2) AS REQUIRED.
 ### The output waveform showing the instructions performed in a 5-stage pipelined architecture.
 <details>
 <summary>add r6,r2,r1</summary>
-	
-![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/c255bc14-82f5-43bb-8aad-a795ebc7fcb4)
 
+![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/d991a6ba-b4ee-4193-a8d5-8d4a3aac514f)
 
 
 </details>
 
 <details>
 <summary>sub r7,r1,r2</summary>
+	
+![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/34e4bf38-022c-48f7-8e96-4b43fc5d3749)
 
-![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/ad9aedf1-a120-4308-a104-602178fb1948)
 </details>
 <details>
 <summary>and r8,r1,r3</summary>
 	
-![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/2e3b4227-eebe-4a4b-8e70-bdbe86228d7b)
+![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/5a030fa4-f166-494d-a2a3-00ff455d5a88)
+
 </details>
 
 <details>
 	<summary>or r9,r2,r5</summary>
 
- ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/06d11737-7943-4316-885d-a8791b5f5132)
+ ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/d45c6b14-b979-4253-ae38-74d69d8aa0cf)
+
 
 </details>
 
 <details>
 	<summary>xor r10,r1,r4</summary>
 
- ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/347f316f-147a-49a9-b4bc-9cf20d731ea1)
+ ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/ead5a7b5-6ea8-42b7-a87e-5c41fb13943b)
+
 
 </details>
 <details>
 	<summary>slt r11,r2,r4</summary>
 
- ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/860986a6-7b24-4198-b315-0dbc175a7cff)
+ ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/7f7493a0-b6c3-4352-ba24-0134badf026e)
+
 
 </details>
 <details>
 	<summary>addi r12,r4,5</summary>
 
- ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/4b1c8913-9f31-45fa-b29f-166247af2c92)
+ ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/0ade44dd-103c-481c-aecd-2b940d990c80)
+
 
 </details>
 <details>
 	<summary>sw r3,r1,2</summary>
 
- ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/1cbf6b9f-27f5-4725-a574-0eb40fb4a84a)
+ ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/ffd2bad8-0407-4084-bba7-e2c6ca5c6a3b)
+
 
 </details>
 <details>
 	<summary>lw r13,r1,2</summary>
 
- ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/1b62affb-5e68-42e7-9661-e8a93a3d1291)
+ ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/badcc136-aade-4333-bbbb-ce5203adf65e)
+
 
 </details>
 <details>
 	<summary>beq r0,r0,15</summary>
+	
+![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/5879dacb-c38c-4b40-bca9-a70fd02859ea)
 
- ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/52ff3810-c41f-4685-98bd-7aa0a2c4a44d)
 
 </details>
 <details>
