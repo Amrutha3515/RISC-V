@@ -145,6 +145,8 @@ GCC (F1) SHOULD HAVE AN EQUAL OUTPUT TO THE RISCV GCC (F2) AS REQUIRED.
 	
 ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/c255bc14-82f5-43bb-8aad-a795ebc7fcb4)
 
+
+
 </details>
 
 <details>
