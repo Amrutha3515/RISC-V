@@ -206,7 +206,8 @@ GCC (F1) SHOULD HAVE AN EQUAL OUTPUT TO THE RISCV GCC (F2) AS REQUIRED.
 <details>
 	<summary>add r14,r2,r2</summary>
 
- ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/f3442522-5d37-4c0c-aabd-fc8329a88cef)
+ ![image](https://github.com/Amrutha3515/RISC-V/assets/150571663/998e24a9-8240-4f1e-a699-db63224c8480)
+
 
 </details>
 
