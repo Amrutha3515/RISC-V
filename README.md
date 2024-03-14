@@ -136,29 +136,6 @@ GCC (F1) SHOULD HAVE AN EQUAL OUTPUT TO THE RISCV GCC (F2) AS REQUIRED.
 <details>
 	<summary>Task-5</summary>
 
- ### About iverilog and gtkwave
- 
-+ Icarus Verilog is an implementation of the Verilog hardware description language.
-+ GTKWave is a fully featured GTK+ v1. 2 based wave viewer for Unix and Win32 which reads Ver Structural Verilog Compiler generated AET files as well as standard Verilog VCD/EVCD files and allows their viewing.
-### Installing iverilog and gtkwave
-
-+ For Ubuntu
-+ Open your terminal and type the following to install iverilog and GTKWave
-```
-$   sudo apt get update
-$   sudo apt get install iverilog gtkwave
-```
-+ To simulate and run the Verilog code, enter the following commands in your terminal.
-``` 
-$ iverilog -o hello hello.v hello_tb.v
-$ ./hello
-```
-![WhatsApp Image 2024-03-07 at 19 18 20_f563c07d](https://github.com/Amrutha3515/RISC-V/assets/150571663/c7920de6-03d7-4e75-a968-d164c821306d)
-
-+ To see the output waveform in gtkwave, enter the following commands in your terminal.
-  
-```$ gtkwave hello.vcd ```
-
 
 
 
